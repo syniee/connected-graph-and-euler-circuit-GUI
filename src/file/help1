@@ -1,0 +1,15 @@
+Có 1 bảng hiển thị ma trận kề của đồ thị bên dưới Giải thuật đồ thị.
+Bảng điều khiển vẽ và hiển thị đồ thi với các chế độ chọn: 
++ Cập nhật đồ thị: cập nhật đồ thị khi có thay đổi.
++ Vẽ đỉnh: Vẽ các đỉnh.
++ Vẽ cạnh: Vẽ cạnh giữa các đỉnh.
++ Di chuyển: Di chuyển các đỉnh để có được một đồ thị dễ nhìn.
++ Mở đồ thị: Mở file đồ thị đã lưu.
++ Lưu đồ thị: Lưu file đồ thị đã vẽ.
++ Tạo đồ thị mới: Tạo trang vẽ đồ thị mới.
+- Xóa đỉnh: Click chuột phải vào đỉnh chọn "Xóa".
+- Xóa cạnh: Click chuột phải vào cạnh chọn "Xóa".
+Giải thuật đồ thị gồm 2 nút chức năng:
+- Số miền liên thông: Cho biết Số miền liên thông của đồ thị.
+- Chu trình Euler: Cho biết Chu trình Euler của đồ thị.
+Bảng thông báo dưới khung vẽ đồ thị hiển thị số miền liên thông của đồ thị và chu trình Euler.

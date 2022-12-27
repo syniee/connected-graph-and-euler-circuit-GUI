@@ -1,0 +1,18 @@
+Co 1 bang hien thi ma tran ke cua do thi ben duoi Giai thuat do thi.
+
+Bang dieu khien ve va hien thi do thi voi cac che do chon:
++ Cap nhat do thi: Cap nhat do thi khi co thay doi.
++ Ve dinh: Ve cac dinh.
++ Ve canh: Ve cac canh giua cac dinh.
++ Di chuyen: Di chuyen cac dinh de co duoc mot do thi de nhin.
++ Mo do thi: Mo file do thi da luu.
++ Luu do thi: Luu file do thi da ve.
++ Tao do thi moi: Tao trang ve do thi moi.
+- Xoa dinh: Click chuot phai vao dinh chon "Xoa".
+- Xoa canh: Click chuot phai vao canh chon "Xoa".
+
+Giai thuat do thi gom 2 nut chuc nang:
+- So mien lien thong: Cho biet So mien lien thong cua do thi.
+- Chu trinh Euler: Cho biet Chu trinh Euler cua do thi.
+
+Bang thong bao duoi khung ve do thi hien thi so mien lien thong cua do thi va chu trinh Euler.
